@@ -113,6 +113,7 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ### Linear Regression using Profit Prediction:
 
 
+
 ![image](https://github.com/sreekarsh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/139841918/71ee4f7f-2a18-4cb5-bde3-5a456df80674)
 
 
